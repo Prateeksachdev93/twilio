@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- page located at http://example.com/complex_gather.xml -->
+<Response>
+<Sms>
+	Please enter 1 for books and 2 for lyrics
+</Sms>
+</Response>
